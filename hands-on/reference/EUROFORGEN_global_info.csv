@@ -1,0 +1,21 @@
+pop,population,meta,metapopulation,lat,lon
+MSL,"Mende, Sierra Leone",Africa,Africa / Sub Saharan,7,-10.5
+ESN,"Esan, Nigeria",Africa,Africa / Sub Saharan,8,8
+YOR,"Yoruba, Benin City, Nigeria",Africa,Africa / Sub Saharan,8,5
+YRI,"Yoruba, Ibadan, Nigeria",Africa,Africa / Sub Saharan,8,5
+LWK,"Luhya, Webuye, Kenya",Africa,Africa / Sub Saharan,-1,35
+IBS,"Iberians, Spain",Europe,Europe,39.75,-3
+TSI,"Toscani, Italy",Europe,Europe,42.45,12.75
+EAM,European Americans,Europe,Europe,52.5,16
+GBR,British from England and Scotland,Europe,Europe,54.625,-2.875
+FN1,"Finns, Finland",Europe,Europe,67.5,27.5
+PJL,"Punjabi, Lahore, Pakistan",Asia,South / Central Asia,31.25,75
+GIH,"Gujarati (India), Houston, Texas",Asia,South / Central Asia,29,-95.5
+ITU,"Telugu (India), collected in United Kingdom",Asia,South / Central Asia,55,-2
+STU,"Tamil (Sri Lanka), collected in United Kingdom",Asia,South / Central Asia,10,78.25
+BEB,"Bengali, Bangladesh",Asia,South / Central Asia,23,87
+JPT,"Japanese, Tokyo, Japan",EastAsia,East Asia,38,138
+CHB,"Han Chinese in Bejing, China",EastAsia,East Asia,31,110
+HCS,Southern Han Chinese,EastAsia,East Asia,31,110
+CDX,"Chinese Dai in Xishuangbanna, China",EastAsia,East Asia,24.5,101.25
+KHV,"Kinh (Vietnamese), Ho Chi Minh City, Vietnam",EastAsia,East Asia,16,105.5
