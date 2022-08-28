@@ -18,3 +18,4 @@ Simulated profiles based on EUROFORGEN samples and frequencies
 
 ### Test samples
 
+* Afghan: [csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/test/csv/Afghan.csv), [xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/test/xlsx/Afghan.xlxs)
