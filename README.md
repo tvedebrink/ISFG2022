@@ -6,6 +6,10 @@ Workshop material for ISFG2022
 
 ## Hands-on session
 
+###
+
+**Link to GenoGeographer:** <http://genogeographer.org>
+
 ### Reference database files 
 
 Simulated profiles based on EUROFORGEN samples and frequencies
