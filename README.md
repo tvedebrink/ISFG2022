@@ -8,7 +8,7 @@ Workshop material for ISFG2022
 
 ###
 
-**Link to GenoGeographer:** <http://genogeographer.org>
+**Link to GenoGeographer:** <http://genogeographer.org> (redirects to <http://apps.math.aau.dk/aims/>, i.e. the same page)
 
 ### Reference database files 
 
