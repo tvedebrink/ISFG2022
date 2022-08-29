@@ -14,10 +14,10 @@ Workshop material for ISFG2022
 
 Simulated profiles based on EUROFORGEN samples and frequencies
 
-* [EUROFORGEN_global_db.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.csv)
-* [EUROFORGEN_global_info.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.csv)
-* [EUROFORGEN_global_db.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.xlsx)
-* [EUROFORGEN_global_info.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.xlsx)
+* [EUROFORGEN_global_db.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.csv) (CSV: genotypes)
+* [EUROFORGEN_global_info.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.csv) (CSV: information)
+* [EUROFORGEN_global_db.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.xlsx) (Excel: genotypes)
+* [EUROFORGEN_global_info.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.xlsx) (Excel: information)
 
 An already pre-processed database-file is available here: [EUROFORGEN_120_SNP.rds](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/reference/EUROFORGEN_120_SNP.rds)
 
