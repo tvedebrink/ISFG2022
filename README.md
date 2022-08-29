@@ -19,7 +19,7 @@ Simulated profiles based on EUROFORGEN samples and frequencies
 ### Test samples
 
 * Afghan: [csv](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/Afghan.csv), [xlsx](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/Afghan.xlsx)
-* African American: [csv](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/African American.csv), [xlsx](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/African American.xlsx)
+* African American: [csv]('https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/African American.csv'), [xlsx]('https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/African American.xlsx')
 * Afro-Caribbean: [csv](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/Afro-Caribbean.csv), [xlsx](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/Afro-Caribbean.xlsx)
 * Bengali: [csv](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/Bengali.csv), [xlsx](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/Bengali.xlsx)
 * British: [csv](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/British.csv), [xlsx](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/British.xlsx)
