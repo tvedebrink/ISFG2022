@@ -12,7 +12,7 @@ Workshop material for ISFG2022
 
 ### Reference database files 
 
-Simulated profiles based on EUROFORGEN samples and frequencies
+Simulated profiles based on 120 SNPs from the EUROFORGEN Global ancestry-informative SNP panel. The frequencies were downloaded from <https://frog.med.yale.edu/FrogKB/>
 
 * [EUROFORGEN_global_db.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.csv) (CSV: genotypes)
 * [EUROFORGEN_global_info.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.csv) (CSV: information)
