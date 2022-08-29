@@ -16,6 +16,8 @@ Simulated profiles based on EUROFORGEN samples and frequencies
 * [EUROFORGEN_global_db.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.xlsx)
 * [EUROFORGEN_global_info.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.xlsx)
 
+An already pre-processed database-file is available here: [EUROFORGEN_120_SNP.rds](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/reference/EUROFORGEN_120_SNP.rds)
+
 ### Test samples
 
 * Afghan: [csv](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/csv/Afghan.csv), [xlsx](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on/test/xlsx/Afghan.xlsx)
