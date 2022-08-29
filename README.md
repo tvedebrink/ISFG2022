@@ -16,7 +16,6 @@ Simulated profiles based on EUROFORGEN samples and frequencies
 
 * [EUROFORGEN_global_db.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.csv)
 * [EUROFORGEN_global_info.csv](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.csv)
-
 * [EUROFORGEN_global_db.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_db.xlsx)
 * [EUROFORGEN_global_info.xlsx](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/reference/EUROFORGEN_global_info.xlsx)
 
