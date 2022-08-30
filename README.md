@@ -8,6 +8,8 @@ Workshop material for ISFG2022
 
 **Link to GenoGeographer:** <http://genogeographer.org> (redirects to <http://apps.math.aau.dk/aims/>, i.e. the same page)
 
+**Download all profiles and databases:** [hands-on.zip](https://github.com/tvedebrink/ISFG2022/raw/main/hands-on.zip)
+
 ### Precision ID profiles
 
 * [Dane](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Danes.csv)
