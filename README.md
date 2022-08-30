@@ -6,9 +6,17 @@ Workshop material for ISFG2022
 
 ## Hands-on session
 
-###
-
 **Link to GenoGeographer:** <http://genogeographer.org> (redirects to <http://apps.math.aau.dk/aims/>, i.e. the same page)
+
+### Precision ID profiles
+
+* [Dane](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Danes.csv)
+* [Greenland](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Greenland.csv)
+* [Iran](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Iran.csv)
+* [Morocco](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Morocco.csv)
+* [Somali](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Somali.csv)
+* [Turkey](https://raw.githubusercontent.com/tvedebrink/ISFG2022/main/hands-on/PrecisionID_profiles/Turkey.csv)
+
 
 ### Reference database files 
 
